@@ -1,5 +1,4 @@
-## Welcome to googlethatshit Top Level Domain; you have now resolved a blockchain domain using a [Handshake](https://handshake.org) or like [bhandshake domain](home.bhandshake/), and that deserves a round of applause!!! 
-
+## Welcome to googlethatshit Top Level Domain; you have now resolved a blockchain domain using [Handshake](https://handshake.org). Here try [bhandshake domain](http://try.bhandshake/).
  But now you should go and [googlethatshit](https://google.com)
 
 
